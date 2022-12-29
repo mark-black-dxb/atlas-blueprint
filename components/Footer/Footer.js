@@ -3,7 +3,7 @@ import {
   FaFacebookF,
   FaGithub,
   FaInstagram,
-  FaLinkedinIn
+  FaLinkedinIn,
   FaTwitter,
   FaYoutube,
 } from 'react-icons/fa';
