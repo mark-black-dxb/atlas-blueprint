@@ -119,7 +119,7 @@ export default function Footer({ menuItems }) {
         <NavigationMenu className={cx('nav')} menuItems={menuItems} />
 
         <div className={cx('copyright')}>
-          &copy; {new Date().getFullYear()} Created by Black &#183; Powered By{' '}
+          &copy; {new Date().getFullYear()} Created by Mark &#183; Powered By{' '}
           <a href="https://wpengine.com/atlas">WP Engine Atlas</a>
         </div>
       </div>
