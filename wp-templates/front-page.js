@@ -107,7 +107,7 @@ export default function Component() {
               Testimonials
             </Heading>
             <p className={styles.description}>
-              Here are just a few of the nice things our customers have to say.
+              Here are just a few of the nice things our customers have to say test.
             </p>
             <Testimonials testimonials={data?.testimonials?.nodes} />
           </section>
