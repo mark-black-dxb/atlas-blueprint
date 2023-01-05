@@ -120,7 +120,7 @@ export default function Footer({ menuItems }) {
 
         <div className={cx('copyright')}>
           &copy; {new Date().getFullYear()} Created by Che &#183; Powered By{' '}
-          <a href="https://wpengine.com/atlas">WP Engine Atlas</a>
+          <a href="https://wpengine.com/atlas">WP Engine Atlas.</a>
         </div>
       </div>
     </footer>
